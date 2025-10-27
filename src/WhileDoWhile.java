@@ -1,7 +1,7 @@
 public class WhileDoWhile {
     public static void  main(String[] args) {
 
-        int a = 8;
+       // int a = 8;
      /*   while (a > 15) {
             System.out.println(a);
             a--; // smanjuje vrijednost varijable za 1
