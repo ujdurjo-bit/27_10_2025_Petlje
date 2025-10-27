@@ -12,6 +12,7 @@ public class Main {
         }
 
         c = a > b ? a : b;
+        System.out.println(c);
 
     }
 }
